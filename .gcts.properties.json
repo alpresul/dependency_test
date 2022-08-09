@@ -1,0 +1,1 @@
+{"name":"alpresul-dependency_test","version":"1.0.0","description":"alpresul-dependency_test","repositoryLayout":{"formatVersion":4,"format":"json","objectStorage":"plain","metaInformation":".gctsmetadata/","tableContent":"true"},"prerequisites":[{"component":"SAP_BASIS","release":"755","supportPackage":"0000"}]}
